@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XOR String</string>
+    <string name="label_input">Input</string>
+    <string name="label_output">Output</string>
+</resources>
